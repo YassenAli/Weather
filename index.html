@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Weather</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="#">
+    <meta property="og:description" content="Entery your city to get it's degree of it.">
+    <meta property="og:locale" content="en-US">
+    <meta property="og:site_name" content="Weather">
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap" rel="stylesheet"/>
+
+    <!-- Style sheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="icon" href="">
+</head>
+<body>
+    <div class="container">
+        <section class="main">
+            <section class="inputs">
+                <input type="text" placeholder="Enter Your City Name..." id="cityinput">
+<!--                <input type="submit" value="Submit" id="add">-->
+                <button id="button">Submit</button>
+            </section>
+            <section class="display">
+                <div class="wrapper">
+                    <h2 id="cityoutput"></h2>
+                    <p id="temp"></p>
+                    <p id="wind"></p>
+                    <p id="description"></p>
+                </div>
+            </section>
+        </section>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
