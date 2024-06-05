@@ -26,6 +26,9 @@ The Weather Website allows users to retrieve real-time weather information for a
 ## API
 We use the OpenWeather API to retrieve weather data. Make sure to sign up for an API key and replace the placeholder `apik` in `index.js` with your actual API key.
 
+## Live Demo
+View the live demo of this project here: [Weather](https://yassenali.github.io/Homepage-of-Netflix/)
+
 ## Acknowledgments
 - Thanks to the OpenWeather team for providing the API.
 - Inspiration from other weather websites.
