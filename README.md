@@ -1,7 +1,5 @@
 # Weather
 
-![Weather of Cairo](https://github.com/YassenAli/Weather/blob/main/weatherOfCairo.png)
-
 ## Description
 The Weather Website allows users to retrieve real-time weather information for a specific city. Simply input the city name, and the website will provide details such as temperature, wind speed, and sky conditions.
 
@@ -32,3 +30,5 @@ View the live demo of this project here: [Weather](https://yassenali.github.io/W
 ## Acknowledgments
 - Thanks to the OpenWeather team for providing the API.
 - Inspiration from other weather websites.
+
+![Weather of Cairo](https://github.com/YassenAli/Weather/blob/main/weatherOfCairo.png)
